@@ -72,7 +72,7 @@ jobs:
       # 将注释替换成更新博客链接
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.unifolm.com/"
+          feed_list: "https://feeds.feedburner.com/lzyy"
           
       - name: Stop containers
         if: always()
