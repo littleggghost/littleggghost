@@ -70,6 +70,9 @@ jobs:
       - name: Start containers
         run: docker-compose -f "docker-compose.yml" up -d --build
 
+      - name: Install dependencies
+        run: python3 test.py
+
       - name: Install node
         uses: actions/setup-node@v4
         with:
@@ -81,8 +84,26 @@ jobs:
       # 将注释替换成更新博客链接
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "feed.xml"
           
       - name: Stop containers
         if: always()
         run: docker-compose -f "docker-compose.yml" down
+
+    # steps:
+    #   - name: Checkout
+    #     uses: actions/checkout@v4
+
+    #   - name: Setup Hugo
+    #     uses: peaceiris/actions-hugo@v2
+    #     with:
+    #       hugo-version: 'latest'
+
+    #   - name: Build
+    #     run: hugo --minify
+
+    #   - name: Deploy
+    #     uses: peaceiris/actions-gh-pages@v3
+    #     with:
+    #       github_token: ${{ secrets.AC_TOKEN }}
+    #       publish_dir: ./public
