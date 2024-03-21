@@ -35,7 +35,7 @@ jobs:
 
       # 添加依赖
       - name: Install dependencies
-        run: npm install --save dotenv
+        run: npm install --save dotenv mustache
 
       # 生成文件
       - name: Generate README file
