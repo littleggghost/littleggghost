@@ -12,7 +12,7 @@ html_content = response.content
 
 # 解析网页内容
 soup = BeautifulSoup(html_content, 'html.parser')
-articles = soup.find_all('article')
+titles = soup.find_all('title')
 
 # 格式化 RSS 内容
 rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
@@ -20,13 +20,13 @@ rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
   <channel>
     <title>Example Blog</title>
     <link>{blog_url}</link>
-    <description>Latest articles from Example Blog</description>
+    <description>Latest titles from Example Blog</description>
 """
 
-for article in articles:
-    title = article.find('h2').text.strip()
-    link = article.find('a')['href']
-    pub_date = article.find('time')['datetime']
+for title in titles:
+    title = title.find('h2').text.strip()
+    link = title.find('a')['href']
+    pub_date = title.find('time')['datetime']
     pub_date = datetime.strptime(pub_date, '%Y-%m-%d').strftime('%a, %d %b %Y %H:%M:%S %z')
 
     rss_content += f"""
