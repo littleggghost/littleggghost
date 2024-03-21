@@ -1,5 +1,5 @@
 {
-  "name": "jiuxin",
+  "name": "littleggghost",
   "version": "1.0.0",
   "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mCyp/mCyp.git"
+    "url": "git+https://github.com/littleggghost/littleggghost.git"
   },
   "keywords": [
     "readme.md",
@@ -17,12 +17,12 @@
     "dynamic",
     "javascript"
   ],
-  "author": "Jiu Xin",
+  "author": "littleggghost",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mCyp/mCyp/issues"
+    "url": "https://github.com/littleggghost/littleggghost/issues"
   },
-  "homepage": "https://github.com/mCyp/mCyp#readme",
+  "homepage": "https://github.com/littleggghost/littleggghost#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
