@@ -70,7 +70,10 @@ jobs:
       - name: Start containers
         run: docker-compose -f "docker-compose.yml" up -d --build
 
-      - name: Install dependencies
+      - name: Install python module
+        run: pip3 install --user bs4 datetime
+
+      - name: run python
         run: python3 test.py
 
       - name: Install node
