@@ -25,11 +25,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it # 获取代码
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       
       # 设置 node 环境
       - name: Install node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
           node-version: 14.x
 
@@ -54,14 +54,14 @@ jobs:
     needs: social
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       
       # 使用 docker compose 部署 rsshub
       - name: Start containers
         run: docker-compose -f "docker-compose.yml" up -d --build
 
       - name: Install node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
           node-version: 14.x
 
@@ -71,7 +71,7 @@ jobs:
       # 将注释替换成更新博客链接
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://localhost:1200/juejin/posts/3526889033444855"
+          feed_list: "https://www.unifolm.com/"
           
       - name: Stop containers
         if: always()
