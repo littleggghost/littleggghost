@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # 定义博客网站的链接和 RSS 文件名
-blog_url = 'https://blog.sciencenet.cn/blog.php'
+blog_url = 'https://onevcat.com/feed.xml'
 rss_file = 'feed.xml'
 
 # 下载网页内容
