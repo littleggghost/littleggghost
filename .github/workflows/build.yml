@@ -43,10 +43,10 @@ jobs:
 
       # push 代码，需要自己的 Github token
       - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
+        uses: ad-m/github-push-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.AC_TOKEN }}
-          BRANCH_NAME: 'main'
+          BRANCH_NAME: ${{ github.main }}
 
   # 更新博客 Job2    
   blog:
