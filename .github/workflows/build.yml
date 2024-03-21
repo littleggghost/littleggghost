@@ -76,6 +76,9 @@ jobs:
       - name: run python
         run: python3 test.py
 
+      - name: print
+        run: cat feed.xml
+
       - name: Install node
         uses: actions/setup-node@v4
         with:
