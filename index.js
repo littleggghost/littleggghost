@@ -1,7 +1,6 @@
 require('dotenv').config();
 const Mustache = require('mustache');
-// const fetch = require('node-fetch');
-import fetch from 'node-fetch';
+const fetch = require('node-fetch');
 const fs = require('fs');
 const puppeteerService = require('./services/puppeteer.service');
 
