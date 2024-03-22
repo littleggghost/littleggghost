@@ -78,9 +78,9 @@ jobs:
         run: cat public/funfacts.xml
 
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "atom.xml"
+          feed_list: "../../atom.xml"
           disable_item_validation: true
           item_exec: "if (!post.title) post = null;" #to skip post that dont have title
 
