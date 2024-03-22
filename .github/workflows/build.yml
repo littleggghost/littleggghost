@@ -77,7 +77,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "public/funfacts.xml"
+          feed_list: "https://littleggghost.github.io/littleggghost/funfacts.xml"
 
 
     # steps:
