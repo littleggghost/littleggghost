@@ -78,7 +78,7 @@ jobs:
         run: cat public/funfacts.xml
 
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "public/funfacts.xml"
 
