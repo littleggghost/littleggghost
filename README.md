@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
+
+[![Latest Blog Posts](https://github.com/littleggghost/littleggghost/blob/main/github-metrics-blog.svg)](https://github.com/lowlighter/metrics)
