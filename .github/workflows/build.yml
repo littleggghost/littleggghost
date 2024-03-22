@@ -71,13 +71,16 @@ jobs:
         run: npx playwright install firefox
       # GitHub Actions unfortunately does not support retries;
       # this is a cumbersome method of retrying twice in case of errors:
-      - name: feed
+      - name: Feed
         run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
+
+      - name: Print
+        run: cat public/funfacts.xml
 
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://littleggghost.github.io/littleggghost/funfacts.xml"
+          feed_list: "public/funfacts.xml"
 
 
     # steps:
