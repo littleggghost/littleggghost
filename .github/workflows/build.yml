@@ -81,6 +81,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "atom.xml"
+          disable_item_validation: true
+          item_exec: "if (!post.title) post = null;" #to skip post that dont have title
 
 
     # steps:
