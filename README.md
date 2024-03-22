@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - [Chen Xue](https://en.wikipedia.org/wiki/Chen_Xue_(writer))
 - [Selfish](https://en.wikipedia.org/wiki/Selfish_(Britney_Spears_song))
 <!-- BLOG-POST-LIST:END -->
+
+![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
