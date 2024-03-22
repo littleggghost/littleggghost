@@ -75,7 +75,7 @@ jobs:
         run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
 
       - name: Print
-        run: cat public/funfacts.xml
+        run: pwd
 
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
