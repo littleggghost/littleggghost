@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [Shmap&#39;n Shmazz](https://en.wikipedia.org/wiki/Shmap%27n_Shmazz)
-- [Sirius Remembered](https://en.wikipedia.org/wiki/Sirius_Remembered)
-- [ten-season streak](https://en.wikipedia.org/wiki/List_of_Seattle_Storm_seasons)
-- [developed by Supermassive Games](https://en.wikipedia.org/wiki/List_of_games_by_Supermassive_Games)
-- [Eurovision Song Contest 1992](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1992)
+- [an era of ship wars](https://en.wikipedia.org/wiki/Shipping_discourse)
+- [Kobe Bufkin](https://en.wikipedia.org/wiki/Kobe_Bufkin)
+- [Dress](https://en.wikipedia.org/wiki/Dress_(Taylor_Swift_song))
+- [learn from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
+- [Joey Siu](https://en.wikipedia.org/wiki/Joey_Siu)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
