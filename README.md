@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [an era of ship wars](https://en.wikipedia.org/wiki/Shipping_discourse)
-- [Kobe Bufkin](https://en.wikipedia.org/wiki/Kobe_Bufkin)
-- [Dress](https://en.wikipedia.org/wiki/Dress_(Taylor_Swift_song))
-- [learn from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
-- [Joey Siu](https://en.wikipedia.org/wiki/Joey_Siu)
+- [Descartes&#39; theorem](https://en.wikipedia.org/wiki/Descartes%27_theorem)
+- [in many works of fiction](https://en.wikipedia.org/wiki/Asteroids_in_fiction)
+- [Spitfire](https://en.wikipedia.org/wiki/Spitfire_(EP))
+- [Bill Shearer](https://en.wikipedia.org/wiki/Bill_Shearer)
+- [argue in favor of women&#39;s superiority](https://en.wikipedia.org/wiki/Sophia,_a_Person_of_Quality)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
