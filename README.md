@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [Descartes&#39; theorem](https://en.wikipedia.org/wiki/Descartes%27_theorem)
-- [in many works of fiction](https://en.wikipedia.org/wiki/Asteroids_in_fiction)
-- [Spitfire](https://en.wikipedia.org/wiki/Spitfire_(EP))
-- [Bill Shearer](https://en.wikipedia.org/wiki/Bill_Shearer)
-- [argue in favor of women&#39;s superiority](https://en.wikipedia.org/wiki/Sophia,_a_Person_of_Quality)
+- [the healthcare campaigner who pioneered organ donor cards in the UK](https://en.wikipedia.org/wiki/Elizabeth_Ward_(British_campaigner))
+- [Kentucky Educational Television](https://en.wikipedia.org/wiki/Kentucky_Educational_Television)
+- [Chris Hill](https://en.wikipedia.org/wiki/Chris_Hill_(basketball))
+- [The Cutting Edge: The Magic of Movie Editing](https://en.wikipedia.org/wiki/The_Cutting_Edge:_The_Magic_of_Movie_Editing)
+- [Youth Symphony Orchestra of Ukraine](https://en.wikipedia.org/wiki/Youth_Symphony_Orchestra_of_Ukraine)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
