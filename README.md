@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [Neil Sean](https://en.wikipedia.org/wiki/Neil_Sean)
-- [The Star-Spangled Man](https://en.wikipedia.org/wiki/The_Star-Spangled_Man)
-- [Walid Daqqa](https://en.wikipedia.org/wiki/Walid_Daqqa)
-- [Manor Lords](https://en.wikipedia.org/wiki/Manor_Lords)
-- [Isaac Franklin](https://en.wikipedia.org/wiki/Isaac_Franklin)
+- [287 Broadway](https://en.wikipedia.org/wiki/287_Broadway)
+- [Agnes Kimball](https://en.wikipedia.org/wiki/Agnes_Kimball)
+- [nearly a thousand elections for local executives](https://en.wikipedia.org/wiki/2005%E2%80%932014_Indonesian_local_elections)
+- [Toy Town](https://en.wikipedia.org/wiki/Toy_Town)
+- [Lewis W. Green](https://en.wikipedia.org/wiki/Lewis_W._Green)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
