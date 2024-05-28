@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [287 Broadway](https://en.wikipedia.org/wiki/287_Broadway)
-- [Agnes Kimball](https://en.wikipedia.org/wiki/Agnes_Kimball)
-- [nearly a thousand elections for local executives](https://en.wikipedia.org/wiki/2005%E2%80%932014_Indonesian_local_elections)
-- [Toy Town](https://en.wikipedia.org/wiki/Toy_Town)
-- [Lewis W. Green](https://en.wikipedia.org/wiki/Lewis_W._Green)
+- [bed of nails](https://en.wikipedia.org/wiki/Bed_of_nails_defense)
+- [Chuck Eisenmann](https://en.wikipedia.org/wiki/Chuck_Eisenmann)
+- [Atlantic hurricane activity in 1993](https://en.wikipedia.org/wiki/Timeline_of_the_1993_Atlantic_hurricane_season)
+- [Rahmad Mas&#39;ud](https://en.wikipedia.org/wiki/Rahmad_Mas%27ud)
+- [Centurion C-RAM](https://en.wikipedia.org/wiki/Centurion_C-RAM)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
