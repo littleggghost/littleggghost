@@ -2,63 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-11T21:34:00.151Z</updated>
+    <updated>2024-06-18T21:16:54.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[a Catholic church]]></title>
-        <id>https://en.wikipedia.org/wiki/St._Anne%27s_Church,_Moxi</id>
-        <link href="https://en.wikipedia.org/wiki/St._Anne%27s_Church,_Moxi"/>
-        <updated>2024-06-11T21:33:55.176Z</updated>
-        <content type="html"><![CDATA[... that two European missionaries stationed in <b><a href="/wiki/St._Anne%27s_Church,_Moxi" title="St. Anne's Church, Moxi">a Catholic church</a></b> <i>(pictured)</i> were beheaded by Chinese Red Army soldiers led by <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a> in 1935?]]></content>
+        <title type="html"><![CDATA[George Webster]]></title>
+        <id>https://en.wikipedia.org/wiki/George_Webster_(presenter)</id>
+        <link href="https://en.wikipedia.org/wiki/George_Webster_(presenter)"/>
+        <updated>2024-06-18T21:16:50.005Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/CBeebies" title="CBeebies">CBeebies</a> presenter <b><a href="/wiki/George_Webster_(presenter)" title="George Webster (presenter)">George Webster</a></b> <i>(pictured)</i> has "effervescence, bubbly charm, a quick wit", and "<a href="/wiki/Down_syndrome" title="Down syndrome">an extra chromosome</a>"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Felipe Lara]]></title>
-        <id>https://en.wikipedia.org/wiki/Felipe_Lara</id>
-        <link href="https://en.wikipedia.org/wiki/Felipe_Lara"/>
-        <updated>2024-06-11T21:33:55.176Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Felipe_Lara" title="Felipe Lara">Felipe Lara</a></b><span class="nowrap">'s</span> <a href="/wiki/Pulitzer_Prize_for_Music" title="Pulitzer Prize for Music">Pulitzer finalist</a> <i>Double Concerto</i> turns its soloists into a "many-tentacled creature"?]]></content>
+        <title type="html"><![CDATA[Homeric Hymns]]></title>
+        <id>https://en.wikipedia.org/wiki/Homeric_Hymns</id>
+        <link href="https://en.wikipedia.org/wiki/Homeric_Hymns"/>
+        <updated>2024-06-18T21:16:50.005Z</updated>
+        <content type="html"><![CDATA[... that the ancient <i><b><a href="/wiki/Homeric_Hymns" title="Homeric Hymns">Homeric Hymns</a></b></i> influenced the works of <a href="/wiki/James_Joyce" title="James Joyce">James Joyce</a>, <a href="/wiki/Alfred_Hitchcock" title="Alfred Hitchcock">Alfred Hitchcock</a> and <a href="/wiki/Neil_Gaiman" title="Neil Gaiman">Neil Gaiman</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[more uniform in appearance]]></title>
-        <id>https://en.wikipedia.org/wiki/Phenotypic_disparity</id>
-        <link href="https://en.wikipedia.org/wiki/Phenotypic_disparity"/>
-        <updated>2024-06-11T21:33:55.176Z</updated>
-        <content type="html"><![CDATA[... that birds have more species than mammals, but are relatively <b><a href="/wiki/Phenotypic_disparity" title="Phenotypic disparity">more uniform in appearance</a></b>?]]></content>
+        <title type="html"><![CDATA[Jasprit Bumrah]]></title>
+        <id>https://en.wikipedia.org/wiki/Jasprit_Bumrah</id>
+        <link href="https://en.wikipedia.org/wiki/Jasprit_Bumrah"/>
+        <updated>2024-06-18T21:16:50.006Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Jasprit_Bumrah" title="Jasprit Bumrah">Jasprit Bumrah</a></b> holds the record for scoring the highest number of runs in a single over in Test cricket?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ryoko Kui]]></title>
-        <id>https://en.wikipedia.org/wiki/Ryoko_Kui</id>
-        <link href="https://en.wikipedia.org/wiki/Ryoko_Kui"/>
-        <updated>2024-06-11T21:33:55.177Z</updated>
-        <content type="html"><![CDATA[... that in addition to her popular manga series <i><a href="/wiki/Delicious_in_Dungeon" title="Delicious in Dungeon">Delicious in Dungeon</a></i>, <b><a href="/wiki/Ryoko_Kui" title="Ryoko Kui">Ryoko Kui</a></b> has drawn fan art of the games <i><a href="/wiki/Baldur%27s_Gate" title="Baldur's Gate">Baldur's Gate</a></i>, <i><a href="/wiki/Pathfinder_Roleplaying_Game" title="Pathfinder Roleplaying Game">Pathfinder</a></i> and <i><a href="/wiki/Planescape:_Torment" title="Planescape: Torment">Planescape: Torment</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Natives Representative Council]]></title>
+        <id>https://en.wikipedia.org/wiki/Natives_Representative_Council</id>
+        <link href="https://en.wikipedia.org/wiki/Natives_Representative_Council"/>
+        <updated>2024-06-18T21:16:50.009Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Natives_Representative_Council" title="Natives Representative Council">Natives Representative Council</a></b> held meetings in school halls?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eurovision Song Contest 1974]]></title>
-        <id>https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974</id>
-        <link href="https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974"/>
-        <updated>2024-06-11T21:33:55.178Z</updated>
-        <content type="html"><![CDATA[... that one Italian broadcaster delayed airing <b><a href="/wiki/Eurovision_Song_Contest_1974" title="Eurovision Song Contest 1974">Eurovision Song Contest 1974</a></b> by two months to avoid influencing <a href="/wiki/1974_Italian_divorce_referendum" title="1974 Italian divorce referendum">an upcoming divorce law referendum</a>?]]></content>
+        <title type="html"><![CDATA[Kenji Tanigaki]]></title>
+        <id>https://en.wikipedia.org/wiki/Kenji_Tanigaki</id>
+        <link href="https://en.wikipedia.org/wiki/Kenji_Tanigaki"/>
+        <updated>2024-06-18T21:16:50.013Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Kenji_Tanigaki" title="Kenji Tanigaki">Kenji Tanigaki</a></b>, the action director of <i><a href="/wiki/Rurouni_Kenshin_(film)" title="Rurouni Kenshin (film)">Rurouni Kenshin</a></i> and <i><a href="/wiki/Snake_Eyes_(2021_film)" title="Snake Eyes (2021 film)">Snake Eyes: G.I. Joe Origins</a></i>, began his career as a stuntman on the invitation of action choreographer <b><a href="/wiki/Stephen_Tung" title="Stephen Tung">Stephen Tung</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jude McAtamney]]></title>
-        <id>https://en.wikipedia.org/wiki/Jude_McAtamney</id>
-        <link href="https://en.wikipedia.org/wiki/Jude_McAtamney"/>
-        <updated>2024-06-11T21:33:55.180Z</updated>
-        <content type="html"><![CDATA[... that Irish <a href="/wiki/Gaelic_football" title="Gaelic football">Gaelic footballer</a> <b><a href="/wiki/Jude_McAtamney" title="Jude McAtamney">Jude McAtamney</a></b> became interested in <a href="/wiki/American_football" title="American football">American football</a> after reading a Twitter post in 2020, and became an <a href="/wiki/National_Football_League" title="National Football League">NFL</a> player in 2024?]]></content>
+        <title type="html"><![CDATA[a concert]]></title>
+        <id>https://en.wikipedia.org/wiki/Unified_(concert)</id>
+        <link href="https://en.wikipedia.org/wiki/Unified_(concert)"/>
+        <updated>2024-06-18T21:16:50.013Z</updated>
+        <content type="html"><![CDATA[... that after presenting a televised singing contest won by <a href="/wiki/Sarah_Geronimo" title="Sarah Geronimo">Sarah Geronimo</a>, <a href="/wiki/Regine_Velasquez" title="Regine Velasquez">Regine Velasquez</a> co-headlined <b><a href="/wiki/Unified_(concert)" title="Unified (concert)">a concert</a></b> with her?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Episode 8851]]></title>
-        <id>https://en.wikipedia.org/wiki/Episode_8851</id>
-        <link href="https://en.wikipedia.org/wiki/Episode_8851"/>
-        <updated>2024-06-11T21:33:55.182Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Tim_Robards" title="Tim Robards">Tim Robards</a> returned to <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i> in <b><a href="/wiki/Episode_8851" title="Episode 8851">Episode&nbsp;8851</a></b>, two years after he had to quit his role early?]]></content>
+        <title type="html"><![CDATA[Qin Huasun]]></title>
+        <id>https://en.wikipedia.org/wiki/Qin_Huasun</id>
+        <link href="https://en.wikipedia.org/wiki/Qin_Huasun"/>
+        <updated>2024-06-18T21:16:50.013Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Qin_Huasun" title="Qin Huasun">Qin Huasun</a></b> criticized Taiwan's bid to join the United Nations as a "brazen attempt [...]&nbsp;at splitting a sovereign state"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Franz Liszt]]></title>
-        <id>https://en.wikipedia.org/wiki/Franz_Liszt</id>
-        <link href="https://en.wikipedia.org/wiki/Franz_Liszt"/>
-        <updated>2024-06-11T21:33:55.183Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Franz_Liszt" title="Franz Liszt">Franz Liszt</a></b><span class="nowrap">'s</span> female admirers would fight over his cigar stubs and coffee dregs as souvenirs?]]></content>
+        <title type="html"><![CDATA[Green Bay Packers players selected for all three NFL All-Anniversary Teams]]></title>
+        <id>https://en.wikipedia.org/wiki/List_of_Green_Bay_Packers_NFL_Anniversary_All-Time_Team_selections</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_Green_Bay_Packers_NFL_Anniversary_All-Time_Team_selections"/>
+        <updated>2024-06-18T21:16:50.014Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Don_Hutson" title="Don Hutson">Don Hutson</a> and <a href="/wiki/Forrest_Gregg" title="Forrest Gregg">Forrest Gregg</a> were the only <b><a href="/wiki/List_of_Green_Bay_Packers_NFL_Anniversary_All-Time_Team_selections" title="List of Green Bay Packers NFL Anniversary All-Time Team selections">Green Bay Packers players selected for all three NFL All-Anniversary Teams</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utter]]></title>
+        <id>https://en.wikipedia.org/wiki/Utter_(horse)</id>
+        <link href="https://en.wikipedia.org/wiki/Utter_(horse)"/>
+        <updated>2024-06-18T21:16:50.016Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Utter_(horse)" title="Utter (horse)">Utter</a></b> served as a Stockholm police horse for more than 23 years, participating in 515 changings of the <a href="/wiki/Royal_Guards_(Sweden)" title="Royal Guards (Sweden)">Royal Guards</a>?]]></content>
     </entry>
 </feed>
