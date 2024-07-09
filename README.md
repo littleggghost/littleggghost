@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Babies](https://en.wikipedia.org/wiki/Space_Babies)
-- [al-Ma&#39;mun al-Bata&#39;ihi](https://en.wikipedia.org/wiki/Al-Ma%27mun_al-Bata%27ihi)
-- [Erismatopterus](https://en.wikipedia.org/wiki/Erismatopterus)
-- [BBL Drizzy](https://en.wikipedia.org/wiki/BBL_Drizzy)
-- [Oxtongue River](https://en.wikipedia.org/wiki/Oxtongue_River)
+- [Growing Up](https://en.wikipedia.org/wiki/Growing_Up_(The_Linda_Lindas_album))
+- [Żeromski Park](https://en.wikipedia.org/wiki/Stefan_%C5%BBeromski_Park_(Szczecin))
+- [Jean-Pierre Lévy](https://en.wikipedia.org/wiki/Jean-Pierre_L%C3%A9vy_(resistance_leader))
+- [Florida Hospital Oceanside](https://en.wikipedia.org/wiki/Florida_Hospital_Oceanside)
+- [Tatto Suwarto Pamuji](https://en.wikipedia.org/wiki/Tatto_Suwarto_Pamuji)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
