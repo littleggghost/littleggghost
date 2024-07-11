@@ -1,5 +1,5 @@
 [funfacts]
-title = "Wikipedia — did you know?"
+title = "宇树技术论坛"
 url = "https://www.unifolm.com/"
 entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
