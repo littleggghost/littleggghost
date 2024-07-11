@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- BLOG-POST-LIST:START -->
-- [Growing Up](https://en.wikipedia.org/wiki/Growing_Up_(The_Linda_Lindas_album))
-- [Żeromski Park](https://en.wikipedia.org/wiki/Stefan_%C5%BBeromski_Park_(Szczecin))
-- [Jean-Pierre Lévy](https://en.wikipedia.org/wiki/Jean-Pierre_L%C3%A9vy_(resistance_leader))
-- [Florida Hospital Oceanside](https://en.wikipedia.org/wiki/Florida_Hospital_Oceanside)
-- [Tatto Suwarto Pamuji](https://en.wikipedia.org/wiki/Tatto_Suwarto_Pamuji)
+- [Barbara&#39;s Rhubarb Bar](https://en.wikipedia.org/wiki/Barbara%27s_Rhubarb_Bar)
+- [Dot and Bubble](https://en.wikipedia.org/wiki/Dot_and_Bubble)
+- [Gmac Cash](https://en.wikipedia.org/wiki/Gmac_Cash)
+- [a snowy NFL game](https://en.wikipedia.org/wiki/Snow_Bowl_(1985))
+- [The Servile State](https://en.wikipedia.org/wiki/The_Servile_State)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://metrics.lecoq.io/littleggghost?template=classic&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&posts=false&posts.source=hashnode&posts.user=.user.login&posts.descriptions=false&posts.covers=true&posts.limit=6&config.timezone=Asia%2FShanghai)
