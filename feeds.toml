@@ -1,6 +1,6 @@
 [funfacts]
 title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
+url = "https://www.unifolm.com/"
 entrySelector = "#mp-dyk > ul li"
 titleSelector = "b"
 linkSelector = "b a"
